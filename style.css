@@ -1,0 +1,49 @@
+
+body {
+	font-family: Arial;
+	font-size: 16px;
+	line-height: 1.5;
+	
+	background-color: #ffffff;
+	color: #333333;
+	margin: 40px auto 40px auto;
+	width: 100%;
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: 700;
+}
+h2 {
+	font-size: 18px;
+	font-weight: 700;
+}
+.header-bar {
+	background-color: gray;
+	color: whitesmoke;
+	padding: 16px;
+	font-weight: 700;
+	width: 100%;
+
+
+}
+img {
+	width: 100%;
+	
+}
+
+.card-picture {
+	width: 100%;
+	position: relative;
+}
+.overlay {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	padding: 8px;
+	color: whitesmoke;
+}
+
+
